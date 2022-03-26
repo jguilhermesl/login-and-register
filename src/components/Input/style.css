@@ -1,0 +1,15 @@
+.input {
+    width: 400px;
+    display: flex;
+}
+
+.input input {
+    width: 350px;
+    height: 38px;
+    border: 0.6px solid #8E8383;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin: 10px auto 0 auto;
+    outline: none;
+}

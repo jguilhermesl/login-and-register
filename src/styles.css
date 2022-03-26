@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: var(--outfit);
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 400px;
+}
+
+:root {
+    --poppins: 'Poppins', sans-serif;
+    --outfit: 'Outfit', sans-serif;
+    --purple: #212124;
+    --black: #000;
+}
